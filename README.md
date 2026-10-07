@@ -5,7 +5,7 @@ I build responsive web applications with JavaScript, React, and Next.js, from po
 ## Featured projects
 
 - **[FlowBoard](https://github.com/boykareal/Flow-board---Real-time-Collaborative-tool)** — Real-time collaborative Kanban app with drag-and-drop card transfers, Appwrite Realtime, invitations, and owner/editor/viewer permissions. [Live demo](https://flow-board-real-time-collaborative.vercel.app/)
-- **[Stack Overflow Clone](https://stack-over-f-low-c-lone.vercel.app/)** — Q&A application inspired by Stack Overflow.
+- **[Stack Overflow Clone](https://github.com/boykareal/stackOverFLowCLone)** — Q&A application inspired by Stack Overflow.
 
 ## Tech stack
 
